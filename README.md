@@ -119,15 +119,6 @@ Contributions are welcome! If you'd like to improve Project Vault:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📋 Roadmap
-
-- [ ] Multi-user support
-- [ ] Cloud backup integration
-- [ ] File sharing with encryption
-- [ ] Mobile application
-- [ ] Two-factor authentication
-- [ ] File versioning system
-
 ## 🐛 Known Issues
 
 Please check the [Issues](https://github.com/naitikoss/Project_voult/issues) page for current known issues and to report new ones.
@@ -141,10 +132,7 @@ This project is available for personal and educational use. Please check the rep
 **Naitik**
 - GitHub: [@naitikoss](https://github.com/naitikoss)
 
-## 🙏 Acknowledgments
 
-- Thanks to all contributors who help improve this project
-- Built with Python and love for privacy and security
 
 ## 📞 Support
 
