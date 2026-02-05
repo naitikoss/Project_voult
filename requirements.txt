@@ -1,0 +1,7 @@
+customtkinter
+cryptography
+os
+base64
+json
+hashlib
+uuid

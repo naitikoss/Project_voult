@@ -1,0 +1,10 @@
+import logging
+
+logging.basicConfig(
+    filename="logs/vault.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s"
+)
+
+logging.info("Vault accessed")
+logging.warning("Failed login attempt")
